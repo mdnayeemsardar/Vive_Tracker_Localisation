@@ -1,6 +1,5 @@
 The folder contains necessary files of the final working version of the localization, including Lidar data fusion.
-*Note: the lidar data is fused with the map without preprocessing. so, the data customization for lidar is a work yet to be done.
-
+*Note: the lidar data is fused with the map without proper preprocessing. The data customization for lidar is a work still ongoing.
 
 dependency 1 --- Class_Maps.py
 
